@@ -1,0 +1,64 @@
+/*Header*/
+body {
+    background-color: #52734d;
+}
+.nav-ul {
+    display: flex;
+    justify-content:space-evenly;
+    margin: 20px 50px 0 50px;
+}
+.nav-li a {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+.class {
+    color: yellowgreen;
+}
+.fa-telegram-plane {
+    content: #f3fe;
+}
+i {
+    color: yellow;
+    float: right;
+    margin-right: 20px;
+}
+/* Section*/  
+.left {
+    float: left;
+    background: #e6dd3b;
+    clear: both;
+    margin-left: 200px;
+    border: 2px solid ;
+    padding:20px 20px 20px 20px;
+}
+.right {
+    float: right;
+    background:#e6dd3b;
+    margin-right: 200px;
+    border: 2px solid;
+    padding:20px 20px 20px 20px;
+}
+.text-wrapper {
+    width: 700px;
+    text-transform: uppercase;
+}
+.image-wrapper {
+    float: left;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+.clear {
+    clear: both;
+}
+.image-wrapper-2 {
+    float: right;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+.text-wrapper-2 {
+    width: 700px;
+    text-transform: uppercase;
+}
